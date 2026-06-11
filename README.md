@@ -1,6 +1,6 @@
 # AutoJudge: Programmatic Difficulty & Complexity Predictor
 
-AutoJudge is an end-to-end machine learning system designed to automatically analyze competitive programming problem descriptions (e.g., from platforms like Codeforces, Kattis, or CodeChef) and predict their difficulty class and numerical complexity score.
+AutoJudge is an end-to-end machine learning system designed to automatically analyze competitive programming problem descriptions (e.g., from platforms like Leetcde or Codeforces) and predict their difficulty class and numerical complexity score.
 
 By processing only the textual context of the problem—the description, input constraints, and output requirements—the model extracts structural complexity markers and semantics to generate its predictions.
 
