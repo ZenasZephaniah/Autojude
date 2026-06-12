@@ -1,11 +1,6 @@
 # AutoJudge: Algorithmic Complexity Evaluation System
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Model-F7931E?logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-
-AutoJudge is an intelligent machine learning system designed to automatically evaluate the difficulty of programming tasks. Using only raw, unstructured text descriptions from coding problems (such as those hosted on Codeforces, Kattis, or CodeChef), AutoJudge predicts both the qualitative difficulty class (Easy, Medium, Hard) and a fine-grained numerical complexity score (1.1 to 9.7).
+AutoJudge is an intelligent machine learning system designed to automatically evaluate the difficulty of programming tasks. Using only raw, unstructured text descriptions from coding problems (such as those hosted on Codeforces, Leetcode), AutoJudge predicts both the qualitative difficulty class (Easy, Medium, Hard) and a fine-grained numerical complexity score (1.1 to 9.7).
 
 ---
 
