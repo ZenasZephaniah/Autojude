@@ -1,4 +1,4 @@
-## Project Structure
+### Project Structure
 ```text
 autojudge/
 ├── data/
@@ -15,7 +15,7 @@ autojudge/
 └── README.md                     # Project documentation
 ```
 
-## Local Installation & Setup
+### Local Installation & Setup
 
 Ensure you have Python 3.10+ installed on your system.
 
